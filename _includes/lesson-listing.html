@@ -1,0 +1,23 @@
+<div class="container col-xxl-8 px-4 py-5">
+  <h2 class="display-5 fw-bold lh-1 mb-3">Lessons in The Carpentries Lab</h2>
+  <table class="table table-striped">
+    <thead>
+      <tr>
+        <th scope="col">Lesson title</th>
+        <th scope="col">Last Updated</th>
+        <th scope="col">Site</th>
+        <th scope="col">Repository</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for lesson in site.data.lessons %}
+      <tr>
+        <td><a href="{{ lesson.url }}">{{ lesson.title }}</a></td>
+        <td>{{ lesson.updated }}</td>
+        <td><a href="{{ lesson.url }}"><span class="oi oi-browser" title="lesson website"></span></a></td>
+        <td><a href="{{ lesson.repo }}" aria-label="lesson repository"><span class="fab fa-github"></span></a></td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
