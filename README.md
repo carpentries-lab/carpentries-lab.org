@@ -1,4 +1,4 @@
-# The Carpentries Incubator Website
+# The Carpentries Lab Website
 
 This is the source repository for https://carpentries-lab.org.
 
