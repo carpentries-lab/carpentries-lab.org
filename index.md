@@ -27,8 +27,8 @@ layout: default
       </div>
       <div class="feature col">
         <h2>Review a lesson</h2>
-        <p>Help authors improve their lesson by volunteering as a reviewer. Click below to contact the Curriculum Team.</p>
-        <a href="mailto:incubator@carpentries.org" class="btn btn-primary">
+        <p>Help authors improve their lesson by volunteering as a reviewer. Fill in the form to register as a Lesson Reviewer.</p>
+        <a href="https://forms.gle/P8oKF6QMejDmUQdu6" class="btn btn-primary">
             Volunteer
           </a>
       </div>
