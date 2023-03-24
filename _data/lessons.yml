@@ -2,4 +2,30 @@
   title: Python for Atmosphere and Ocean Scientists
   url: https://carpentries-lab.github.io/python-aos-lesson/
   repo: https://github.com/carpentries-lab/python-aos-lesson
-  updated: 2022-08-16
+  updated: 2022-10-17
+-
+  title: Metagenomics Workshop Overview
+  url: https://carpentries-lab.github.io/metagenomics-workshop/
+  repo: https://github.com/carpentries-lab/metagenomics-workshop
+  updated: 2023-03-17
+-
+  title: Project Organization and Management for Metagenomics
+  url: https://carpentries-lab.github.io/metagenomics-organization/
+  repo: https://github.com/carpentries-lab/metagenomics-organization
+  updated: 2023-03-10
+-
+  title: Introduction to the Command Line for Metagenomics
+  url: https://carpentries-lab.github.io/metagenomics-shell/
+  repo: https://github.com/carpentries-lab/metagenomics-shell
+  updated: 2023-03-10
+-
+  title: Introduction to R (Metagenomics)
+  url: https://carpentries-lab.github.io/metagenomics-R/
+  repo: https://github.com/carpentries-lab/metagenomics-R
+  updated: 2023-03-10
+
+-
+  title: Data Processing and Visualization for Metagenomics
+  url: https://carpentries-lab.github.io/metagenomics-analysis/
+  repo: https://github.com/carpentries-lab/metagenomics-analysis
+  updated: 2023-03-10
