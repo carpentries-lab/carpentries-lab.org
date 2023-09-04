@@ -29,3 +29,8 @@
   url: https://carpentries-lab.github.io/metagenomics-analysis/
   repo: https://github.com/carpentries-lab/metagenomics-analysis
   updated: 2023-03-10
+-
+  title: Good Enough Practices in Scientific Computing
+  url: https://carpentries-lab.github.io/good-enough-practices/
+  repo: https://github.com/carpentries-lab/good-enough-practices
+  updated: 2023-09-04
